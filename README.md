@@ -1,2 +1,1 @@
-# git-lab-coppia
-lavoro di gruppo
+Progetto creato durante il corso ITS Git
